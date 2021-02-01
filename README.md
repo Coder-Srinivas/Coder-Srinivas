@@ -1,4 +1,4 @@
-### I am Srinivas aka a Web Developer, Coding Enthusiast and a 3 <img height="32" width="32" src="https://www.flaticon.com/svg/vstatic/svg/616/616490.svg?token=exp=1612179735~hmac=8fe9996a2ec27e04d8d7c620eace5e5a" />👋
+### I am Srinivas aka a Web Developer, Coding Enthusiast and a 3 <img height="32" width="32" src="https://www.flaticon.com/svg/vstatic/svg/616/616490.svg?token=exp=1612179735~hmac=8fe9996a2ec27e04d8d7c620eace5e5a" /> Coder on Codechef 🐼👋
 
 
 
