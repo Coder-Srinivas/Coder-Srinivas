@@ -1,4 +1,4 @@
-### I am Srinivas aka a Web Developer, Coding Enthusiast and a 3 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Golden_star.svg/1200px-Golden_star.svg.png.svg" />👋
+### I am Srinivas aka a Web Developer, Coding Enthusiast and a 3 <img height="32" width="32" src=https://www.flaticon.com/svg/vstatic/svg/2107/2107957.svg?token=exp=1612179454~hmac=8553f3ec3f888f826a766e3d634e5947.svg" />👋
 
 
 
