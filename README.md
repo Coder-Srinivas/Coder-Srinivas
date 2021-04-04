@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Advanced CSS
 - 👯 I’m looking to collaborate on projects involving node.js
-- 🤔 I’m looking for help with MongoDB
+- 🤔 I’m looking for help with Doker
 - 💬 Ask me about anything
 - 🥅 2021 Goals : Contribute more towards Open Source Projects
 - ⚡ Fun fact: I am super fast and love to game
