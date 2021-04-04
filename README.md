@@ -17,3 +17,4 @@
 - 🥅 2021 Goals : Contribute more towards Open Source Projects
 - ⚡ Fun fact: I am super fast and love to game
 
+[![Srinivas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coder-Srinivas)](https://github.com/anuraghazra/github-readme-stats)
