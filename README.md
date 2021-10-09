@@ -38,8 +38,7 @@
 <p align="center">
   <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=coder-srinivas&theme=react&" alt="coder-srinivas" />
   <img width="45%"  src="https://github-readme-stats.vercel.app/api?username=coder-srinivas&show_icons=true&locale=en&theme=react&" alt="coder-srinivas" />
-  <img width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-srinivas&show_icons=true&locale=en&layout=compact&theme=react&" alt="coder-srinivas" />
-</p>
+  <img width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-srinivas&show_icons=true&locale=en&layout=compact&theme=react&" alt="coder-srinivas"/>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=coder-srinivas&bg_color=1F222E&color=ffffff&line=61DBFB&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Coder-Srinivas's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=coder-srinivas&bg_color=1F222E&color=ffffff&line=61DBFB&point=FFFFFF&hide_border=true" /></a>
 
